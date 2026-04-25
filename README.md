@@ -28,30 +28,30 @@
     <td align="center"><strong>📋 Classrooms</strong></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/frontend/public/images/1.jpg" alt="Dashboard" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/frontend/public/images/2.jpg" alt="Classrooms" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/images/dashboard.png" alt="Dashboard" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/images/classrooms.png" alt="Classrooms" width="100%"/></td>
   </tr>
   <tr>
     <td align="center"><strong>📝 Assignments</strong></td>
     <td align="center"><strong>📚 Materials</strong></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/frontend/public/images/3.jpg" alt="Assignments" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/frontend/public/images/4.jpg" alt="Materials" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/images/assignments.png" alt="Assignments" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/images/matetials.png" alt="Materials" width="100%"/></td>
   </tr>
   <tr>
     <td align="center"><strong>💬 Real-Time Chat</strong></td>
     <td align="center"><strong>🔔 Notifications</strong></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/frontend/public/images/5.jpg" alt="Chat" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/frontend/public/images/6.jpg" alt="Notifications" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/images/chats.png" alt="Chat" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/images/notifications.png" alt="Notifications" width="100%"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>🛡️ Admin Panel</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/frontend/public/images/7.jpg" alt="Admin Panel" width="60%"/></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Ajay120503/kaksha-source-code/main/images/adminpanel.png" alt="Admin Panel" width="60%"/></td>
   </tr>
 </table>
 
