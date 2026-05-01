@@ -12,7 +12,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-010101?style=for-the-badge&logo=socket.io)](https://socket.io/)
 
-**[🚀 Live Demo](#)** · **[📖 Report Bug](https://github.com/Ajay120503/kaksha-source-code/issues)** · **[✨ Request Feature](https://github.com/Ajay120503/kaksha-source-code/issues)**
+**[🚀 Live Demo](https://kaksh-v1.vercel.app/)** · **[📖 Report Bug](https://github.com/Ajay120503/kaksha-source-code/issues)** · **[✨ Request Feature](https://github.com/Ajay120503/kaksha-source-code/issues)**
 
 </div>
 
